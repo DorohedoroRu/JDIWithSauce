@@ -1,2 +1,1 @@
-# JDIWithSauce
-Example of using JDI with Sauce Lab
+# JDI with Sauce test project
